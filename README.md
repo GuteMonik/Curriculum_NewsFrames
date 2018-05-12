@@ -1,13 +1,13 @@
-![Firefox 57](https://blog.nightly.mozilla.org/files/2017/07/nightly-blog-header-robot-2.jpg)
-# Sprint Firefox 57 en Colombia
-La versión de Firefox 57 cada vez está más cerca. Por esta razón, queremos presentarla y asegurarnos de su éxito e impacto. Nos encontramos ahora en la introducción de la campaña de Firefox 57. 
+! Currículo Talleres Rising Frames
+Los Talleres Rising Frames son actividades con diferentes componentes: investigación, análisis de datos, exploración de temas de interés y construcción de una agenda de trabajo de participación comunitaria en medios. A través de este trabajo se busca mostrar a comunidades específicas el cubrimiento que algunos medios están haciendo de temas específicos, fomentar la construcción de una agenda de trabajo para hacer cubrimiento de temas de interés para las comunidades y, por último, contar historias desde sus experiencias y contextos para visibilizar sus percepciones y voces y que sean escuchados.   
 
-Durante esta campaña las comunidades locales nos vamos a reunir y nos aseguraremos que Firefox se ejecute sin problemas en cada región. 
-En este repositorio se presenta la información sobre el evento en el que se testeará Firefox 57 en Colombia. La descripción del trabajo, las actividades realizadas y también toda la documentación. 
-* [Registro](Registro.md)
-* [Actividades](Actividades.md)
-* [Formato de las actividades y Documentación](Formato_Documentación.md)
-* [Reportes](Reportes.md)
-* [Recursos](Recursos.md)
-
-![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+En este repositorio se presenta la información sobre el currículo de los talleres de Rising Frames.  
+* [Talleres Rising Frames](Talleres.md)
+* [Introducción](Introducción.md)
+* [Visión general](Vision_general.md)
+* [Antes de empezar el taller](Antes_de_empezar.md)
+* [Secuencia de las actividades](Secuencia.md)
+* [Ejemplos](Ejemplos.md)
+* [Herramientas y métodos](Herramienta_metodos.md)
+* [Conclusión](Conclusion.md)
+* [Comunidad](Comunidad.md)
